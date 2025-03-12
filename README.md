@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imran Sheikh  
+# Imran Sheikh  
 
 💼 **QA Automation Engineer** | **12+ Years of Experience**  
 🚀 **Expert in Automation & Manual Testing**  
