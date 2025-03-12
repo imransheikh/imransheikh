@@ -6,7 +6,7 @@
 ---
 
 ### 🏆 **Key Skills**  
-- **Automation:** Selenium, Cypress, Playwright, Appium  
+- **Automation:** Selenium, Karate API, UI, Cypress, Playwright, Appium  
 - **Languages:** Java, Python, TypeScript, JavaScript  
 - **API Testing:** Karate, Rest Assured, Postman  
 - **Frameworks:** BDD, TDD, Hybrid, POM  
